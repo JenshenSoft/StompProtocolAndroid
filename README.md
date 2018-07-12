@@ -2,6 +2,8 @@
 
 [![Release](https://jitpack.io/v/NaikSoftware/StompProtocolAndroid.svg)](https://jitpack.io/#NaikSoftware/StompProtocolAndroid)
 
+[![Build Status](https://travis-ci.org/JenshenSoft/StompProtocolAndroid.svg?branch=master)](https://travis-ci.org/JenshenSoft/StompProtocolAndroid)
+
 ## Overview
 
 This library provide support for STOMP protocol https://stomp.github.io/
